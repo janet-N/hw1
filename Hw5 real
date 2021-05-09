@@ -1,0 +1,32 @@
+P=('[P] Print Options:')
+print(P)
+fahrenheit=77
+celsius=(fahrenheit-32)/1.8
+ConvertfromCelsius=(celsius*1.8)+32
+ConvertfromFahrenheit=(fahrenheit-32)/1.8
+print('[C] Convert 25 from Celsius=')
+print(ConvertfromCelsius)
+print('[F] Convert 99 from Fahrenheit=')
+print(ConvertfromFahrenheit)
+miles=1
+kilometer=miles/0.62137
+convertfrommiles=(miles/0.62137)
+convertfromkilometers=(kilometer*0.62137) 
+print('[M] Convert 1 kilometer from miles=')
+print(convertfrommiles)
+print('[KM] Convert 1 mile from kilometers=')
+print(convertfromkilometers)
+inches=1
+cm=(inches*2.54)
+convertfrominches=(inches*2.54)
+convertfromcm=(inches/2.54)
+print('[In] Convert 1 cm from inches=')
+print(convertfromcm)
+print('[CM] Convert 1 inch from centimeters=')
+print(convertfrominches)
+Q=('[Q] Quit')
+print(Q)
+Option=('Option: F')
+print(Option)
+print('fahrenhiet tempreture:77')
+print('celsius:25.0')
