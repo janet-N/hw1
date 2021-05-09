@@ -1,0 +1,8 @@
+print('First name: James Mutison Mutisya')
+print('Physical Address: 435 Hidden Special Place')
+print('City: Kalamzoo State: michigan Zipcode: 49001')
+print(' ')
+print('New House Price: 245,000.00')
+print('Down Payment: 20,000.00')
+print('Credit Score: 679')
+print('Credit Status: Below Average')
