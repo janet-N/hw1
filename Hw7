@@ -1,0 +1,29 @@
+#example
+first_name=(' insert name')
+middle_name=(' insert name')
+last_name=(' insert name')
+area_of_residence=(' home adress')
+mailing_address=(' insert mailing address')
+email_address=(' insert email')
+phone_number=(' insert phone number')
+a=first_name
+b=middle_name
+c=last_name
+d=mailing_address
+e=area_of_residence
+f=email_address
+g=phone_number
+databook=(a+b+c+d+e+f+g) print(databook)
+#assignment
+a2=('')
+b2=('')
+c2=('')
+d2=('')
+e2=('')
+f2=('')
+g2=('')
+fake_book=(databook*-2)
+new_databook=[a2+b2+c2+d2+e2+f2+g2]
+contact=(new_databook*3)
+new_contact=(new_databook)
+delete_contact=(fake_book)
