@@ -1,0 +1,26 @@
+name=('john doe')
+kilowatt=1
+#residential_rural_area is now rra the rest will follow this trend
+rra=(kilowatt*10)
+rua=(kilowatt*15)
+lira=(kilowatt*20)
+liua=(kilowatt*23)
+hira=(kilowatt*27)
+hiua=(kilowatt*30)
+ra=[rra,rua]
+iua=[liua,hiua]
+ira=[lira,hira]
+billing=('city,country,town, address')
+if ra(rra+10%)
+if ra(rua+10%
+if ira(hira+15%)
+if ira(lira+15%)
+if iua(liua+18%)
+if iua(hiua+18%)
+if kilowatt>200=(-3%)
+if kilowatt<450=(-3%)
+if kilowatt<500=(-5%)
+if kilowatt<601=(-7%)
+if kilowatt<701=(-9%)
+if kilowatt<801=(-11%)
+if kilowatt>802=(-12%)
